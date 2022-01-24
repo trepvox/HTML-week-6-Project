@@ -1,0 +1,14 @@
+html {
+    background: rgb(170, 148, 118);
+}
+
+card-holder {
+    background-color: tan;
+    opacity: 0.45;
+}
+
+h2 {
+    color: teal;
+    background-color: rgb(240, 223, 200);
+}
+
